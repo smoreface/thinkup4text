@@ -1,0 +1,10 @@
+// using the pocket API to create insights
+
+// will need to make a request to this URL: https://getpocket.com/v3/get
+
+// will need a consumer key for my app: consumer_key
+// will need an access token from the user (me!): access_token
+
+// info about the types of requests and variables is at: http://getpocket.com/developer/docs/v3/retrieve
+// insights about saved articles should use the "state" string to return only unread values
+// a "count" can be returned as well
