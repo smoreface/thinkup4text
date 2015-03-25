@@ -5,18 +5,14 @@ It's an idea. I hardly know any JS, but it's an idea.
 
 ## API options
 I've looked at Pocket, Pinboard, Instapaper, and Readability. Others I should look at?
-* Pocket: http://getpocket.com/developer/docs/v3/retrieve 
-* Pinboard: https://pinboard.in/api
-* Instapaper: https://www.instapaper.com/api/full 
-* Readability: https://readability.com/developers/api/reader
-
-Pocket does seem to support this behavior. 
-Pinboard does too. 
-Instapaper's API seems primarily geared toward reading and modifying content-based apps. 
-Readability does seem to support this behavior. 
+* [Pocket](http://getpocket.com/developer/docs/v3/retrieve): Does seem to support this behavior.
+* [Pinboard](https://pinboard.in/api): Also seems to support this.
+* [Instapaper](https://www.instapaper.com/api/full): Seems primarily geared toward reading & modifying content apps.
+* [Readability](https://readability.com/developers/api/reader): Seems to support this.
 
 ## Proposed "Insights"
 
+###Saved articles
 * You saved __ articles today and read __ ones. 
 * Most of your recently saved articles are about __ (using tag data?)
 * You’ve been saving articles from ___ domain recently
@@ -25,15 +21,21 @@ Readability does seem to support this behavior.
 * Over 70% of your articles are about __
 * You’ve saved __ videos compared with __ text articles this __.
 * Your top five domains are: (1), (2), (3), (4). (5)
+* You saved __x as many articles today as you did this time last week 
+* Most of the articles you've saved are about __
+
+###Read articles
 * You read most articles at __ time of day
 * You read most articles on __ day of the week
 * You've read __ words so far today/this week/this month!
-* You read __ more words this week
-* You saved __x as many articles today as you did this time last week 
-* Most of the articles you've saved are about __
+* You read __ more words this week/day/month than you did __
 * Most of the articles you've read are about __
-* 
-* 
+* Your last 15 articles are about __
+
+###Starred articles
+* Your favorite items tend to be about __
+* Most of your favorite items from the last __ have been from __ site
+* You favorite __ more often than you do articles __
 
 
 
