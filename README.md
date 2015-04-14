@@ -31,6 +31,8 @@ I've looked at Pocket, Pinboard, Instapaper, and Readability. Others I should lo
 * You read __ more words this week/day/month than you did __
 * Most of the articles you've read are about __
 * Your last 15 articles are about __
+* You've read __ words this week/month. That's about __ books!
+* You've spent __ minutes reading this week/month. That's about __[clever length of time]!
 
 ###Starred articles
 * Your favorite items tend to be about __
